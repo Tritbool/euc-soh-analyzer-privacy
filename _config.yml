@@ -1,0 +1,21 @@
+classes: wide
+full-width: true 
+remote_theme: pages-themes/hacker@v0.2.0 #pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale: "en-US"
+title: "EUC SOH ANALYZER Privacy policy"
+#title_separator: "-"
+#subtitle: # site tagline that appears below site title in masthead
+#name: "Tritbool"
+#description: ""
+url: "https://tritbool.github.io/euc-soh-analyzer-privacy"
+#baseurl: "" 
+#repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+#teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# logo: "/assets/images/WD.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+#masthead_title: # overrides the website title displayed in the masthead, use " " for no title
